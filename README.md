@@ -1,4 +1,4 @@
-### Hello! I'm Said! 👋 ![](https://komarev.com/ghpvc/?username=Msaid1013&color=8532a8)
+### <h1>Hello! I'm Said! 👋 ![](https://komarev.com/ghpvc/?username=Msaid1013&color=8532a8)</h1>
 
 <img width = 90 src = "https://cdn.discordapp.com/attachments/1000606800132968529/1028497763077464094/m-artistic-brush-letter-logo-design-in-purple-vector-28178101.jpg" 
 border-radius=25px id = "logo">
@@ -20,7 +20,13 @@ Hi! I'm a 13-year-old passionate developer!
 [![My Skills](https://skillicons.dev/icons?theme=dark&i=py,ts,svelte,html,css,js,mysql,tailwind,github,flask,git,postgres,prisma)](https://skillicons.dev)
 
 
+<h1 style="font-size:50px" align="middle">Stats 📈<h1>
+
+
+
 ![Said Shafoat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Msaid1013&show_icons=true&icon_color=ffffff&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Msaid1013&theme=leafy&border_radius=65)](https://git.io/streak-stats)
 
 <!--
 **Msaid1013/Msaid1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
