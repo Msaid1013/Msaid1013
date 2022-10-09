@@ -17,7 +17,7 @@ Hi! I'm a 13-year-old passionate developer!
 <p align="center">
 
 
-[![My Skills](https://skillicons.dev/icons?theme=dark&i=py,ts,svelte,html,css,js,mysql,tailwind,github,flask,git,postgres,prisma,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=dark&i=py,ts,svelte,html,css,js,mysql,tailwind,github,flask,git,postgres,prisma)](https://skillicons.dev)
 
 
 ![Said Shafoat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Msaid1013&show_icons=true&icon_color=ffffff&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff)
