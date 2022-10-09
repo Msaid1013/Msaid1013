@@ -1,10 +1,24 @@
 ### Hello! I'm Said! 👋 ![](https://komarev.com/ghpvc/?username=Msaid1013&color=8532a8)
 
-Hi! I'm a 13-year-old passionate software developer!
+<img width = 90 src = "https://cdn.discordapp.com/attachments/1000606800132968529/1028497763077464094/m-artistic-brush-letter-logo-design-in-purple-vector-28178101.jpg" 
+border-radius=25px id = "logo">
 
+Hi! I'm a 13-year-old passionate developer!
+
+<h1 style="font-size:50px" align="middle">Projects 🌟</h1>
+
+- One of my first websites:[📠 Website able to translate programming languages](https://translate-programming-languages.najonajo.repl.co/) (Metafrazo), able to translate up to 20 programming languages for the input and output using OpenAI!
+- Incubator project: [🔥 TT-Website](https://tt-web.pages.dev/), MVP finished!
+
+
+<h1 style="font-size:50px" align="middle">Skills 🚀<h1>
+
+
+<p align="center">
 
 
 [![My Skills](https://skillicons.dev/icons?theme=dark&i=py,ts,svelte,html,css,js,mysql,tailwind,github,flask,git,postgres,prisma,bootstrap)](https://skillicons.dev)
+
 
 ![Said Shafoat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Msaid1013&show_icons=true&icon_color=ffffff&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff)
 
