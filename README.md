@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Msaid1013&color=8532a8)
 
+![Said Shafoat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Msaid1013&show_icons=true&icon_color=ffffff&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Msaid1013&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Msaid1013/Msaid1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
