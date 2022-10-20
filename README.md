@@ -17,7 +17,7 @@ Hi! I'm a 13-year-old passionate developer trying to get a job in the industry!
 <p align="center">
 
 
-[![My Skills](https://skillicons.dev/icons?theme=dark&i=py,ts,svelte,html,css,js,mysql,tailwind,github,flask,git,postgres,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=dark&i=py,ts,js,svelte,html,css,vscode,mysql,tailwind,github,flask,git,postgres,prisma)](https://skillicons.dev)
 
 
 <h1 style="font-size:50px" align="middle">Stats 📈<h1>
