@@ -8,7 +8,7 @@ Hi! I'm a 13-year-old passionate developer trying to get a job in the industry!
 <h1 style="font-size:50px" align="middle">Projects 🌟</h1>
 
 - One of my first websites: [Metafrazo](https://translate-programming-languages.najonajo.repl.co/), able to translate up to 20 programming languages for the input and output using OpenAI!
-- Incubator Project: [🔥 TT-Website](https://tt-web.pages.dev/), MVP finished!
+- Incubator Project: [🔥 TT-Website](https://tt-alpha.fly.dev/), MVP finished!
 
 
 <h1 style="font-size:50px" align="middle">Skills 🚀<h1>
