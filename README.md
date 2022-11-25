@@ -3,7 +3,7 @@
 <img width = 90 src = "https://cdn.discordapp.com/attachments/1000606800132968529/1028490305688842301/Screen_Shot_2022-10-08_at_7.12.09_PM.png" 
 border-radius=25px id = "logo">
 
-Hi! I'm a 13-year-old passionate developer trying to get a job in the industry!
+Hi! I'm a passionate developer that loves learning new concepts!
 
 <h1 style="font-size:50px" align="middle">Projects 🌟</h1>
 
