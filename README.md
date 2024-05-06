@@ -1,14 +1,9 @@
-### <h1>Hello! I'm Said! 👋 ![](https://komarev.com/ghpvc/?username=Msaid1013&color=8532a8)</h1>
+### <h1>Hi 👋, I'm Said</h1>
 
 <img width = 90 src = "https://cdn.discordapp.com/attachments/1000606800132968529/1028490305688842301/Screen_Shot_2022-10-08_at_7.12.09_PM.png" 
 border-radius=25px id = "logo">
 
-Hi! I'm a passionate developer that loves learning new concepts!
-
-<h1 style="font-size:50px" align="middle">Projects 🌟</h1>
-
-- One of my first websites: [Metafrazo](https://translate-programming-languages.najonajo.repl.co/), able to translate up to 20 programming languages for the input and output using OpenAI!
-- Incubator Project: [🔥 TT-Website](http://teamtomorrow.com/), MVP finished!
+I'm a passionate developer that loves learning new concepts!
 
 
 <h1 style="font-size:50px" align="middle">Skills 🚀<h1>
