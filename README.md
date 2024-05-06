@@ -1,8 +1,5 @@
 ### <h1>Hi 👋, I'm Said</h1>
 
-<img width = 90 src = "https://cdn.discordapp.com/attachments/1000606800132968529/1028490305688842301/Screen_Shot_2022-10-08_at_7.12.09_PM.png" 
-border-radius=25px id = "logo">
-
 I'm a passionate developer that loves learning new concepts!
 
 
